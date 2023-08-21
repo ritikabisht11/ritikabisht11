@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ritikabisht11
+- 👀 I’m interested in Data analysis
+-  🌱 I’m currently learning Data analysis
+-  📫 You can reach me through ritikabisht2014@gmail.com
